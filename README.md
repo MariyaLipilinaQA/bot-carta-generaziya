@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.github.com/MariyaLipilinaQA/bot-carta-generaziya/edit/main/static/bot_menu.png)
+![image]()
 
 После выбора карты Visa:
 
-![image](https://raw.github.com/MariyaLipilinaQA/bot-carta-generaziya/edit/main/static/visa_card.png)
+![image]()
 
 
 ## 💻 Технологии
