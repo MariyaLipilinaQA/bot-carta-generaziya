@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Мария Липилина ([@dolnikov](https://t.me/MariyaLipilina)
+Мария Липилина ([@MariyaLipilina](https://t.me/MariyaLipilina)
