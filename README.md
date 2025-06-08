@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.github.com/MariyaLipilinaQA/bot-carta-generaziya/edit/main/static/bot_menu.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://raw.github.com/MariyaLipilinaQA/bot-carta-generaziya/edit/main/static/visa_card.png)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Мария Липилина ([@dolnikov](https://t.me/dolnikov))
+Мария Липилина ([@dolnikov](https://t.me/MariyaLipilina)
